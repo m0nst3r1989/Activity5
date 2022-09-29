@@ -1,0 +1,5 @@
+Converting in Lower ::hello professor, this is my assignment for this week. please let me know what you think of it!
+First Word ::Hello
+Last Word ::it!
+Longest word ::professor,
+Longest Vowel Word ::professor,

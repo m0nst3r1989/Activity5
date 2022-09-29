@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\Activity5\bin\Debug\Activity5.exe.config
+C:\Users\edgar\source\repos\Activity5\bin\Debug\Activity5.exe
+C:\Users\edgar\source\repos\Activity5\bin\Debug\Activity5.pdb
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.Form1.resources
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.Properties.Resources.resources
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.exe
+C:\Users\edgar\source\repos\Activity5\obj\Debug\Activity5.pdb
